@@ -1,0 +1,4 @@
+[package]
+name = "dining_philos"
+version = "0.1.0"
+authors = ["JustinBeaudry <justin.beaudry@creativelive.com>"]

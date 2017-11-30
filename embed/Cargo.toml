@@ -1,0 +1,5 @@
+[package]
+name = "embed"
+version = "0.1.0"
+authors = ["Justin Beaudry <justin.beaudry@creativelive.com>"]
+
